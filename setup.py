@@ -19,8 +19,8 @@ with open('README.md', 'r', encoding='utf-8') as f:
    
 
 __version__ = "0.0.1"
-REPO_NAME = "ETL-pipeline-MongoDB"
-PKG_NAME= "ETLMongo"
+REPO_NAME = "ETL-pipeline-MongoDB" # github repository name
+PKG_NAME= "ETLMongo"  # with this name package will be visible in PYPI
 AUTHOR_USER_NAME = "himansu979"
 AUTHOR_EMAIL = "himansusahoo@gmail.com"
 
